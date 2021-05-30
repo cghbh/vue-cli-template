@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <div class="wenjuan-guide">
       <a href="https://www.npmjs.com/package/wenjuan-cli">Documentation</a>
-      <a href="https://github.com/cghbh/xianyu-api">Github</a>
+      <a href="https://github.com/cghbh/wenjuan-cli">Github</a>
     </div>
   </div>
 </template>
