@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <div class="wenjuan-guide">
-      <a href="https://www.npmjs.com/package/wenjuan-cli">Documentation</a>
-      <a href="https://github.com/cghbh/wenjuan-cli">Github</a>
+      <a href="https://www.npmjs.com/package/wenjuan-cli" target="_blank">Documentation</a>
+      <a href="https://github.com/cghbh/wenjuan-cli" target="_blank">Github</a>
     </div>
   </div>
 </template>
